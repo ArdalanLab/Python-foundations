@@ -66,6 +66,5 @@ Scientific programming
 Author
 
 Ardalan Alizadeh
-practice
 
 GitHub: https://github.com/ArdalanLab
